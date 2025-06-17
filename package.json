@@ -7,7 +7,7 @@
     "start": "node server.js"
   },
   "jest": {
-    "testEnvironnement": "node"
+    "testEnvironment": "node"
   },
   "keywords": [],
   "author": "",
